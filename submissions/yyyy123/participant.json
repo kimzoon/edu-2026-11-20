@@ -1,0 +1,25 @@
+{
+  "id": "yyyy123",
+  "tool": "Cline",
+  "model": "qwen/qwen3.8-flash (OpenRouter) · Reasoning Effort medium",
+  "platform": "win32-x64",
+  "versions": {
+    "node": "26.13.1",
+    "java": null,
+    "maven": null,
+    "git": "2.56.0.windows.4",
+    "gh": "2.105.0"
+  },
+  "current": "nomcp",
+  "runs": {
+    "nomcp": {
+      "tool": "Cline",
+      "setupAt": "2026-11-20T05:21:48.959Z",
+      "limitMinutes": 30,
+      "warnings": [],
+      "submittedAt": "2026-11-20T05:52:03.478Z",
+      "elapsedMinutes": 30.2,
+      "overLimit": true
+    }
+  }
+}
